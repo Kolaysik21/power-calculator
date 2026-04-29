@@ -1,2 +1,5 @@
-# power-calculator
-A young man, 19 years old, wants to earn money in the electric power industry and aircraft electrical engineering.
+text
+# Калькулятор мощности
+
+Программа считает мощность по формуле P = U * I.
+Написана на Python.
